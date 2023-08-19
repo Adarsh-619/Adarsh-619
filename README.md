@@ -6,7 +6,7 @@ Software Developer and Enthusiast
 
 * 🌍  I'm based in Bhubaneswar
 * ✉️  You can contact me at [1941012805.m.adarshpatra@gmail.com](mailto:1941012805.m.adarshpatra@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  Working on dreams
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/Adarsh-619" target="_blank" rel="noreferrer"><img
